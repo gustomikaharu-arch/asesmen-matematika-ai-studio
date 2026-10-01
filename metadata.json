@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Sumatif Kelas V SDN 11 Anggrek",
+  "description": "Aplikasi Web Asesmen Sumatif Matematika Kelas V SDN 11 Anggrek Kurikulum Merdeka Fase C, lengkap dengan analisis per TP, database online, dan ekspor PDF resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

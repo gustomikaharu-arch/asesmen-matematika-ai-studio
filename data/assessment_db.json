@@ -1,0 +1,1187 @@
+{
+  "attempts": {
+    "1": {
+      "id": "1_asesmen-sumatif-mat-5-sem1_1",
+      "studentId": 1,
+      "studentName": "AIN'NUN DAVINA LAMATO",
+      "assessmentId": "asesmen-sumatif-mat-5-sem1",
+      "attemptNumber": 1,
+      "startedAt": "2026-09-30T22:55:37.536Z",
+      "completedAt": "2026-09-30T23:25:37.536Z",
+      "durationSeconds": 1420,
+      "status": "completed",
+      "answers": {
+        "1": {
+          "pgChoice": "A"
+        },
+        "2": {
+          "pgChoice": "B"
+        },
+        "3": {
+          "mcmaChoices": [
+            "A",
+            "B"
+          ]
+        },
+        "4": {
+          "categoryChoices": {
+            "row_1": "Ditulis dengan benar",
+            "row_2": "Ditulis dengan benar",
+            "row_3": "Ditulis dengan benar",
+            "row_4": "Ditulis tidak benar"
+          }
+        },
+        "5": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "A",
+            "3": "C"
+          }
+        },
+        "6": {
+          "essayText": "821.036. Angka 0 di tempat ratusan menjaga nilai tempat puluhan dan satuan."
+        },
+        "7": {
+          "pgChoice": "B"
+        },
+        "8": {
+          "pgChoice": "A"
+        },
+        "9": {
+          "mcmaChoices": [
+            "A",
+            "C"
+          ]
+        },
+        "10": {
+          "categoryChoices": {
+            "row_1": "Benar",
+            "row_2": "Benar",
+            "row_3": "Benar",
+            "row_4": "Salah"
+          }
+        },
+        "11": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "A",
+            "3": "C"
+          }
+        },
+        "12": {
+          "essayText": "600.000 + 80.000 + 2.000 + 400 + 5"
+        },
+        "13": {
+          "pgChoice": "B"
+        },
+        "14": {
+          "pgChoice": "B"
+        },
+        "15": {
+          "mcmaChoices": [
+            "A",
+            "B"
+          ]
+        },
+        "16": {
+          "categoryChoices": {
+            "row_1": "Benar",
+            "row_2": "Benar",
+            "row_3": "Benar",
+            "row_4": "Salah"
+          }
+        },
+        "17": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "C",
+            "3": "A"
+          }
+        },
+        "18": {
+          "essayText": "Uang Nisa cukup. Total belanja Rp42.000, kembalian Rp8.000."
+        }
+      },
+      "activeQuestionIndex": 17,
+      "totalScore": 45,
+      "maxScore": 45,
+      "finalScore": 100,
+      "correctCount": 18,
+      "wrongCount": 0,
+      "partialCount": 0,
+      "isPassed": true,
+      "questionGradings": {
+        "1": {
+          "questionId": 1,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "2": {
+          "questionId": 2,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "3": {
+          "questionId": 3,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, B",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "4": {
+          "questionId": 4,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Ditulis dengan benar, Ditulis dengan benar, Ditulis dengan benar, Ditulis tidak benar",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "5": {
+          "questionId": 5,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-A, 3-C",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "6": {
+          "questionId": 6,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "821.036. Angka 0 di tempat ratusan menjaga nilai tempat puluhan dan satuan.",
+          "evaluationReason": "Jawaban lengkap: lambang 821.036 tepat dan penjelasan posisi angka 0 pada ratusan sangat baik."
+        },
+        "7": {
+          "questionId": 7,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "8": {
+          "questionId": 8,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "9": {
+          "questionId": 9,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, C",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "10": {
+          "questionId": 10,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Benar, Benar, Benar, Salah",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "11": {
+          "questionId": 11,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-A, 3-C",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "12": {
+          "questionId": 12,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "600.000 + 80.000 + 2.000 + 400 + 5",
+          "evaluationReason": "Dekomposisi bilangan berdasarkan nilai tempat ditulis lengkap dan tepat (600.000 + 80.000 + 2.000 + 400 + 5)."
+        },
+        "13": {
+          "questionId": 13,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "14": {
+          "questionId": 14,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "15": {
+          "questionId": 15,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, B",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "16": {
+          "questionId": 16,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Benar, Benar, Benar, Salah",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "17": {
+          "questionId": 17,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-C, 3-A",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "18": {
+          "questionId": 18,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Uang Nisa cukup. Total belanja Rp42.000, kembalian Rp8.000.",
+          "evaluationReason": "Jawaban sempurna: menyatakan uang cukup, total belanja Rp42.000 benar, dan kembalian Rp8.000 benar."
+        }
+      },
+      "tpAnalyses": [
+        {
+          "tpId": 1,
+          "tpCode": "TP 1",
+          "tpTitle": "Menunjukkan kemampuan membaca dan menulis bilangan cacah sampai 1.000.000.",
+          "questionIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menunjukkan kemampuan membaca dan menulis bilangan cacah sampai 1.000.000 secara mandiri dan konsisten."
+        },
+        {
+          "tpId": 2,
+          "tpCode": "TP 2",
+          "tpTitle": "Menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan cacah sampai 1.000.000 menggunakan nilai tempat.",
+          "questionIds": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan cacah sampai 1.000.000 menggunakan nilai tempat secara mandiri dan konsisten."
+        },
+        {
+          "tpId": 3,
+          "tpCode": "TP 3",
+          "tpTitle": "Menyelesaikan masalah sehari-hari yang terkait dengan uang.",
+          "questionIds": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menyelesaikan masalah sehari-hari yang terkait dengan uang secara mandiri dan konsisten."
+        }
+      ],
+      "lastSavedAt": "2026-09-30T23:55:37.536Z"
+    },
+    "2": {
+      "id": "2_asesmen-sumatif-mat-5-sem1_1",
+      "studentId": 2,
+      "studentName": "ALISA PUTRI ABUNA",
+      "assessmentId": "asesmen-sumatif-mat-5-sem1",
+      "attemptNumber": 1,
+      "startedAt": "2026-09-30T22:55:37.536Z",
+      "completedAt": "2026-09-30T23:25:37.536Z",
+      "durationSeconds": 1300,
+      "status": "completed",
+      "answers": {
+        "1": {
+          "pgChoice": "A"
+        },
+        "2": {
+          "pgChoice": "B"
+        },
+        "3": {
+          "mcmaChoices": [
+            "A",
+            "B"
+          ]
+        },
+        "4": {
+          "categoryChoices": {
+            "row_1": "Ditulis dengan benar",
+            "row_2": "Ditulis dengan benar",
+            "row_3": "Ditulis dengan benar",
+            "row_4": "Ditulis tidak benar"
+          }
+        },
+        "5": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "A",
+            "3": "C"
+          }
+        },
+        "6": {
+          "essayText": "821.036. Angka 0 di tempat ratusan menjaga nilai tempat puluhan dan satuan."
+        },
+        "7": {
+          "pgChoice": "B"
+        },
+        "8": {
+          "pgChoice": "A"
+        },
+        "9": {
+          "mcmaChoices": [
+            "A",
+            "C"
+          ]
+        },
+        "10": {
+          "categoryChoices": {
+            "row_1": "Benar",
+            "row_2": "Benar",
+            "row_3": "Benar",
+            "row_4": "Salah"
+          }
+        },
+        "11": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "A",
+            "3": "C"
+          }
+        },
+        "12": {
+          "essayText": "600.000 + 80.000 + 2.000 + 400 + 5"
+        },
+        "13": {
+          "pgChoice": "B"
+        },
+        "14": {
+          "pgChoice": "B"
+        },
+        "15": {
+          "mcmaChoices": [
+            "A",
+            "B"
+          ]
+        },
+        "16": {
+          "categoryChoices": {
+            "row_1": "Benar",
+            "row_2": "Benar",
+            "row_3": "Benar",
+            "row_4": "Salah"
+          }
+        },
+        "17": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "C",
+            "3": "A"
+          }
+        },
+        "18": {
+          "essayText": "Uang Nisa cukup. Total belanja Rp42.000, kembalian Rp8.000."
+        }
+      },
+      "activeQuestionIndex": 17,
+      "totalScore": 45,
+      "maxScore": 45,
+      "finalScore": 100,
+      "correctCount": 18,
+      "wrongCount": 0,
+      "partialCount": 0,
+      "isPassed": true,
+      "questionGradings": {
+        "1": {
+          "questionId": 1,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "2": {
+          "questionId": 2,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "3": {
+          "questionId": 3,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, B",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "4": {
+          "questionId": 4,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Ditulis dengan benar, Ditulis dengan benar, Ditulis dengan benar, Ditulis tidak benar",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "5": {
+          "questionId": 5,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-A, 3-C",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "6": {
+          "questionId": 6,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "821.036. Angka 0 di tempat ratusan menjaga nilai tempat puluhan dan satuan.",
+          "evaluationReason": "Jawaban lengkap: lambang 821.036 tepat dan penjelasan posisi angka 0 pada ratusan sangat baik."
+        },
+        "7": {
+          "questionId": 7,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "8": {
+          "questionId": 8,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "9": {
+          "questionId": 9,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, C",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "10": {
+          "questionId": 10,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Benar, Benar, Benar, Salah",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "11": {
+          "questionId": 11,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-A, 3-C",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "12": {
+          "questionId": 12,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "600.000 + 80.000 + 2.000 + 400 + 5",
+          "evaluationReason": "Dekomposisi bilangan berdasarkan nilai tempat ditulis lengkap dan tepat (600.000 + 80.000 + 2.000 + 400 + 5)."
+        },
+        "13": {
+          "questionId": 13,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "14": {
+          "questionId": 14,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "15": {
+          "questionId": 15,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, B",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "16": {
+          "questionId": 16,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Benar, Benar, Benar, Salah",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "17": {
+          "questionId": 17,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-C, 3-A",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "18": {
+          "questionId": 18,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Uang Nisa cukup. Total belanja Rp42.000, kembalian Rp8.000.",
+          "evaluationReason": "Jawaban sempurna: menyatakan uang cukup, total belanja Rp42.000 benar, dan kembalian Rp8.000 benar."
+        }
+      },
+      "tpAnalyses": [
+        {
+          "tpId": 1,
+          "tpCode": "TP 1",
+          "tpTitle": "Menunjukkan kemampuan membaca dan menulis bilangan cacah sampai 1.000.000.",
+          "questionIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menunjukkan kemampuan membaca dan menulis bilangan cacah sampai 1.000.000 secara mandiri dan konsisten."
+        },
+        {
+          "tpId": 2,
+          "tpCode": "TP 2",
+          "tpTitle": "Menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan cacah sampai 1.000.000 menggunakan nilai tempat.",
+          "questionIds": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan cacah sampai 1.000.000 menggunakan nilai tempat secara mandiri dan konsisten."
+        },
+        {
+          "tpId": 3,
+          "tpCode": "TP 3",
+          "tpTitle": "Menyelesaikan masalah sehari-hari yang terkait dengan uang.",
+          "questionIds": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menyelesaikan masalah sehari-hari yang terkait dengan uang secara mandiri dan konsisten."
+        }
+      ],
+      "lastSavedAt": "2026-09-30T23:55:37.536Z"
+    },
+    "3": {
+      "id": "3_asesmen-sumatif-mat-5-sem1_1",
+      "studentId": 3,
+      "studentName": "ALNANDO HASAN",
+      "assessmentId": "asesmen-sumatif-mat-5-sem1",
+      "attemptNumber": 1,
+      "startedAt": "2026-09-30T22:55:37.536Z",
+      "completedAt": "2026-09-30T23:25:37.536Z",
+      "durationSeconds": 1180,
+      "status": "completed",
+      "answers": {
+        "1": {
+          "pgChoice": "A"
+        },
+        "2": {
+          "pgChoice": "A"
+        },
+        "3": {
+          "mcmaChoices": [
+            "A",
+            "B"
+          ]
+        },
+        "4": {
+          "categoryChoices": {
+            "row_1": "Ditulis dengan benar",
+            "row_2": "Ditulis dengan benar",
+            "row_3": "Ditulis dengan benar",
+            "row_4": "Ditulis tidak benar"
+          }
+        },
+        "5": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "A",
+            "3": "C"
+          }
+        },
+        "6": {
+          "essayText": "821.036. Angka 0 di tempat ratusan menjaga nilai tempat puluhan dan satuan."
+        },
+        "7": {
+          "pgChoice": "B"
+        },
+        "8": {
+          "pgChoice": "A"
+        },
+        "9": {
+          "mcmaChoices": [
+            "A",
+            "C"
+          ]
+        },
+        "10": {
+          "categoryChoices": {
+            "row_1": "Benar",
+            "row_2": "Benar",
+            "row_3": "Benar",
+            "row_4": "Salah"
+          }
+        },
+        "11": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "A",
+            "3": "C"
+          }
+        },
+        "12": {
+          "essayText": "600.000 + 80.000 + 2.000 + 400 + 5"
+        },
+        "13": {
+          "pgChoice": "B"
+        },
+        "14": {
+          "pgChoice": "B"
+        },
+        "15": {
+          "mcmaChoices": [
+            "A",
+            "B"
+          ]
+        },
+        "16": {
+          "categoryChoices": {
+            "row_1": "Benar",
+            "row_2": "Benar",
+            "row_3": "Benar",
+            "row_4": "Salah"
+          }
+        },
+        "17": {
+          "matchingChoices": {
+            "1": "B",
+            "2": "C",
+            "3": "A"
+          }
+        },
+        "18": {
+          "essayText": "Uang Nisa cukup. Total belanja Rp42.000, kembalian Rp8.000."
+        }
+      },
+      "activeQuestionIndex": 17,
+      "totalScore": 39,
+      "maxScore": 45,
+      "finalScore": 86.7,
+      "correctCount": 15,
+      "wrongCount": 3,
+      "partialCount": 0,
+      "isPassed": true,
+      "questionGradings": {
+        "1": {
+          "questionId": 1,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "2": {
+          "questionId": 2,
+          "score": 0,
+          "maxScore": 1,
+          "status": "Salah",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Pilihan A belum tepat. Kunci yang benar adalah B."
+        },
+        "3": {
+          "questionId": 3,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, B",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "4": {
+          "questionId": 4,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Ditulis dengan benar, Ditulis dengan benar, Ditulis dengan benar, Ditulis tidak benar",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "5": {
+          "questionId": 5,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-A, 3-C",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "6": {
+          "questionId": 6,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "821.036. Angka 0 di tempat ratusan menjaga nilai tempat puluhan dan satuan.",
+          "evaluationReason": "Jawaban lengkap: lambang 821.036 tepat dan penjelasan posisi angka 0 pada ratusan sangat baik."
+        },
+        "7": {
+          "questionId": 7,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "8": {
+          "questionId": 8,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "A",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "9": {
+          "questionId": 9,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, C",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "10": {
+          "questionId": 10,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Benar, Benar, Benar, Salah",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "11": {
+          "questionId": 11,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-A, 3-C",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "12": {
+          "questionId": 12,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "600.000 + 80.000 + 2.000 + 400 + 5",
+          "evaluationReason": "Dekomposisi bilangan berdasarkan nilai tempat ditulis lengkap dan tepat (600.000 + 80.000 + 2.000 + 400 + 5)."
+        },
+        "13": {
+          "questionId": 13,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "14": {
+          "questionId": 14,
+          "score": 1,
+          "maxScore": 1,
+          "status": "Benar",
+          "studentAnswerDisplay": "B",
+          "evaluationReason": "Jawaban tepat sesuai kunci pilihan ganda."
+        },
+        "15": {
+          "questionId": 15,
+          "score": 2,
+          "maxScore": 2,
+          "status": "Benar",
+          "studentAnswerDisplay": "A, B",
+          "evaluationReason": "Seluruh pilihan jawaban tepat."
+        },
+        "16": {
+          "questionId": 16,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Benar, Benar, Benar, Salah",
+          "evaluationReason": "Semua pernyataan dikategorikan dengan benar (4/4)."
+        },
+        "17": {
+          "questionId": 17,
+          "score": 3,
+          "maxScore": 3,
+          "status": "Benar",
+          "studentAnswerDisplay": "1-B, 2-C, 3-A",
+          "evaluationReason": "Seluruh pasangan dijodohkan dengan tepat (3/3)."
+        },
+        "18": {
+          "questionId": 18,
+          "score": 4,
+          "maxScore": 4,
+          "status": "Benar",
+          "studentAnswerDisplay": "Uang Nisa cukup. Total belanja Rp42.000, kembalian Rp8.000.",
+          "evaluationReason": "Jawaban sempurna: menyatakan uang cukup, total belanja Rp42.000 benar, dan kembalian Rp8.000 benar."
+        }
+      },
+      "tpAnalyses": [
+        {
+          "tpId": 1,
+          "tpCode": "TP 1",
+          "tpTitle": "Menunjukkan kemampuan membaca dan menulis bilangan cacah sampai 1.000.000.",
+          "questionIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            0,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 14,
+          "nilai": 93.3,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menunjukkan kemampuan membaca dan menulis bilangan cacah sampai 1.000.000 secara mandiri dan konsisten."
+        },
+        {
+          "tpId": 2,
+          "tpCode": "TP 2",
+          "tpTitle": "Menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan cacah sampai 1.000.000 menggunakan nilai tempat.",
+          "questionIds": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan cacah sampai 1.000.000 menggunakan nilai tempat secara mandiri dan konsisten."
+        },
+        {
+          "tpId": 3,
+          "tpCode": "TP 3",
+          "tpTitle": "Menyelesaikan masalah sehari-hari yang terkait dengan uang.",
+          "questionIds": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "questionTypes": [
+            "PG",
+            "PG",
+            "MCMA",
+            "KATEGORI",
+            "MENJODOHKAN",
+            "URAIAN"
+          ],
+          "questionMaxScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "questionStudentScores": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            4
+          ],
+          "totalMaxScore": 15,
+          "totalStudentScore": 15,
+          "nilai": 100,
+          "code": "SB",
+          "category": "Sangat Berkembang",
+          "description": "Mampu menyelesaikan masalah sehari-hari yang terkait dengan uang secara mandiri dan konsisten."
+        }
+      ],
+      "lastSavedAt": "2026-09-30T23:55:37.536Z"
+    }
+  },
+  "history": [
+    {
+      "id": "4_asesmen-sumatif-mat-5-sem1_1",
+      "studentId": 4,
+      "studentName": "AMELIA NOE",
+      "attemptNumber": 1,
+      "startedAt": "2026-09-30T23:55:45.771Z",
+      "completedAt": "2026-09-30T23:55:45.771Z",
+      "durationSeconds": 1200,
+      "finalScore": 100,
+      "totalScore": 45,
+      "resetAt": "2026-09-30T23:55:50.036Z",
+      "reason": "Tes pengujian reset asesmen oleh guru"
+    }
+  ],
+  "lastUpdated": "2026-09-30T23:55:50.036Z"
+}
